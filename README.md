@@ -31,10 +31,13 @@ O foco é introduzir os conceitos, ferramentas e práticas que permitem construi
 ---
 
 🧩 **Conteúdos Principais**
-- Introdução ao versionamento de código com Git/Github <a href='link'/>
-- Introdução ao desenvolvimento mobile  
-- Ambiente de desenvolvimento (Node.js, Android Studio, VS Code)  
-- Fundamentos do React e React Native  
+- Introdução ao versionamento de código com Git/Github <a href='https://drive.google.com/file/d/1Gu93386f8yH20pyHJtIppj0StMAj2uxF/view?usp=drive_link'>Aula 01</a>
+- Lista de Exercícios: <a href=''> Lista 01 </a>
+- Introdução ao desenvolvimento mobile: <a href='https://drive.google.com/file/d/1JBogXNu8PSYZE3KC_b9-jaapoLh0sqYu/view?usp=drive_link'>Aula 02</a> 
+- Prototipação: <a href='https://drive.google.com/file/d/17Fs1XUWetWtqNdDKS6pAvimGzkqx6BC9/view?usp=drive_link'>Aula 03</a>
+- Lista de Exercícios: <a href=''> Lista 02 </a>
+- Ambiente de desenvolvimento (Node.js, Android Studio, VS Code) <a href=''>Aula 04</a>  
+- Fundamentos do React e React Native <a href='link'>Aula 05</a> 
 - Componentes, Props e Estado  
 - Estilização com StyleSheet e Tailwind  
 - Navegação (React Navigation)  
