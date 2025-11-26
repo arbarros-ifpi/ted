@@ -40,6 +40,7 @@ O foco é introduzir os conceitos, ferramentas e práticas que permitem construi
 - Fundamentos do React e React Native <a href='https://drive.google.com/file/d/1ZSI9EXcHzxgf8eXHKtu3acy5o3xcIutU/view?usp=drive_link'>Aula 05</a>
 
 - Imagem de aula <a href='https://drive.google.com/file/d/11tWt5RsUS64X4_xVaEhp6oizkI40Aown/view?usp=sharing'>link imagem</a>
+Arquivo Com código fonte compartilhado <a href = "https://docs.google.com/document/d/1el-OoKDDuWr-7ASDoJKX6eiebjWZoOq_21_G04-CuAU/edit?usp=sharing"> </a>
 - Componentes, Props e Estado  
 - Estilização com StyleSheet e Tailwind  
 - Navegação (React Navigation)  
