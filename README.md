@@ -65,6 +65,14 @@ Capacitar o estudante a **projetar e desenvolver aplicações mobile reais**, ut
 
 ---
 
+- **Código Fonte de aplicativos feitos em sala**
+- app_01: https://snack.expo.dev/@prof-barros-ifpi/app_01 
+- app_02: https://snack.expo.dev/@prof-barros-ifpi/app_02
+- app_03: https://snack.expo.dev/@prof-barros-ifpi/app_03
+- app_04: https://snack.expo.dev/@prof-barros-ifpi/app_04
+- app_05: https://snack.expo.dev/@prof-barros-ifpi/app_05
+- app_06: https://snack.expo.dev/@prof-barros-ifpi/app_01
+
 📎 **Recursos Adicionais**
 - Documentação oficial: [React Native](https://reactnative.dev/)  
 - Ferramentas Expo: [Expo Docs](https://docs.expo.dev/)  
