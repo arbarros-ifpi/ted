@@ -72,6 +72,9 @@ Capacitar o estudante a **projetar e desenvolver aplicações mobile reais**, ut
 - app_04: https://snack.expo.dev/@prof-barros-ifpi/app_04
 - app_05: https://snack.expo.dev/@prof-barros-ifpi/app_05
 - app_06: https://snack.expo.dev/@prof-barros-ifpi/app_06
+- app_camera: https://snack.expo.dev/@prof-barros-ifpi/d53102
+- app_gps: https://snack.expo.dev/@prof-barros-ifpi/4f6e85
+- app_calendario: https://snack.expo.dev/@prof-barros-ifpi/440189
 
 📎 **Recursos Adicionais**
 - Documentação oficial: [React Native](https://reactnative.dev/)  
