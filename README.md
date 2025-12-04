@@ -32,15 +32,15 @@ O foco é introduzir os conceitos, ferramentas e práticas que permitem construi
 
 🧩 **Conteúdos Principais**
 - Introdução ao versionamento de código com Git/Github <a href='https://drive.google.com/file/d/1Gu93386f8yH20pyHJtIppj0StMAj2uxF/view?usp=drive_link'>Aula 01</a>
-- Lista de Exercícios: <a href=''> Lista 01 </a>
+- Lista de Exercícios: <a href='https://drive.google.com/file/d/16FVJkIUlVcD4b7u3_PGp5i33qs5eLMOM/view?usp=sharing'> Lista 01 </a>
 - Introdução ao desenvolvimento mobile: <a href='https://drive.google.com/file/d/1JBogXNu8PSYZE3KC_b9-jaapoLh0sqYu/view?usp=drive_link'>Aula 02</a> 
 - Prototipação: <a href='https://drive.google.com/file/d/17Fs1XUWetWtqNdDKS6pAvimGzkqx6BC9/view?usp=drive_link'>Aula 03</a>
-- Lista de Exercícios: <a href=''> Lista 02 </a>
+- Lista de Exercícios: <a href='https://drive.google.com/file/d/176mhP4V9riRO1dnc0L92RllHJi_PFYrT/view?usp=sharing'> Lista 02 </a>
 - Ambiente de desenvolvimento (Node.js, Android Studio, VS Code) <a href=''>Aula 04</a>  
 - Fundamentos do React e React Native <a href='https://drive.google.com/file/d/1ZSI9EXcHzxgf8eXHKtu3acy5o3xcIutU/view?usp=drive_link'>Aula 05</a>
 - Lista de Exercícios Práticos <a href ='https://drive.google.com/file/d/11aAa42zeNZCLvB0ErZHSxmpU9e5EmRKP/view?usp=sharing'>Exercícios Práticos</a>
 - Imagem de aula <a href='https://drive.google.com/file/d/11tWt5RsUS64X4_xVaEhp6oizkI40Aown/view?usp=sharing'>link imagem</a>
-Arquivo Com código fonte compartilhado <a href = "https://docs.google.com/document/d/1el-OoKDDuWr-7ASDoJKX6eiebjWZoOq_21_G04-CuAU/edit?usp=sharing"> Source </a>
+- Arquivo Com código fonte compartilhado <a href = "https://docs.google.com/document/d/1el-OoKDDuWr-7ASDoJKX6eiebjWZoOq_21_G04-CuAU/edit?usp=sharing"> Source </a>
 - Componentes, Props e Estado  
 - Estilização com StyleSheet e Tailwind  
 - Navegação (React Navigation)  
